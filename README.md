@@ -1,2 +1,2 @@
-# independant-study
+# independent-study
 Code review
